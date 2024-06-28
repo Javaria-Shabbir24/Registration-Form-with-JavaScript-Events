@@ -16,7 +16,7 @@ This project is an exercise to create a professional registration form using HTM
 
 - **Onclick Event:** When the submit button is clicked, an alert message "Thank you! Your request has been submitted." is shown.
 
-m ![image](https://github.com/Javaria-Shabbir24/Registration-Form-with-JavaScript-Events/assets/102341169/e99aa044-d093-4933-804b-0d5e1ebaf584)
+  ![image](https://github.com/Javaria-Shabbir24/Registration-Form-with-JavaScript-Events/assets/102341169/e99aa044-d093-4933-804b-0d5e1ebaf584)
   
   ![image](https://github.com/Javaria-Shabbir24/Registration-Form-with-JavaScript-Events/assets/102341169/b3796673-af3c-4296-b83b-88cd37ec4906)
 
